@@ -1,1 +1,1 @@
-# box-generator
+# shape_generator
